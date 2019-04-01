@@ -1,8 +1,8 @@
 0.0.2182
 https://github.com/aiekick/SdfFontDesigner/releases
 Change Log : 
-* bug fix : the config for a font was not loaded correctly (glyph inversion)
-* bug fix : edit button when error, on the main pane, was not good, removed
-* bug fix : when error for the loading of a new shader, the uniforms tuning header was on the last shader
-* improvment : when error or warnings, the collapsed header is red or orange
-Enjoy :)
+  bug fix : the config for a font was not loaded correctly (glyph inversion)
+  bug fix : edit button when error, on the main pane, was not good, removed
+  bug fix : when error for the loading of a new shader, the uniforms tuning header was on the last shader
+  improvment : when error or warnings, the collapsed header is red or orange
+
