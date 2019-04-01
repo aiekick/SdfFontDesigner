@@ -1,4 +1,4 @@
-0.0.2182
+0.0.2174
 https://github.com/aiekick/SdfFontDesigner/releases
   bug fix : the config for a font was not loaded correctly (glyph inversion)
   bug fix : edit button when error, on the main pane, was not good, removed
