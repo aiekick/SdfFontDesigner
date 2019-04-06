@@ -3,5 +3,15 @@ https://github.com/aiekick/SdfFontDesigner/releases
   bug fix : the config for a font was not loaded correctly (glyph inversion)
   bug fix : edit button when error, on the main pane, was not good, removed
   bug fix : when error for the loading of a new shader, the uniforms tuning header was on the last shader
-  improvment : when error or warnings, the collapsed header is red or orange
+  enhancement : when error or warnings, the collapsed header is red or orange
+  new features : can import a shader from ShaderToy and GlslSandBox (imported in the imports directory). go in File/Import
+  new features : can use F5 key for update chars after change (Red Rectangle around char who need update)
+  bug fix : the combobox of shaders was not updated correctly
+  bug fix : uniform mouse was not working
+  new feature : can update camera matrix (by example for calcul light ray direction), and add a button in mainmenubar for update or not
+  new feature : add a button in main menu bar for update mouse or not
+  new feature : add a button in main menu bar for update uv centers modifications or not
+  enhancement : show buffers pane for uniform tuning
+ 
+  
 
