@@ -54,8 +54,8 @@ void mainGlyph(in int glyphIndex, in vec2 glyphCoord, in vec2 glyphSize, in vec2
 	
 	vec2 uvTex = texCoord / texSize;
 	
-	vec4 font0 = texture(uAtlas, uvTex);
-	vec4 font1 = texture(uAtlas, uvTex + ld);
+	//vec4 font0 = texture(uAtlas, uvTex);
+	//vec4 font1 = texture(uAtlas, uvTex + ld);
 				
 	if (uGlyphInversions[glyphIndex] > 0.5)
 	{

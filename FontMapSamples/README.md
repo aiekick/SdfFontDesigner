@@ -10,6 +10,7 @@ not sure if they are good enough for production btw :)
 ![test.png](test.png)
 ![test1.png](test1.png)
 ![test2.png](test2.png)
+![test3.png](test3.png)
 ![test4.png](test4.png)
 ![test5.png](test5.png)
 ![test6.png](test6.png)
@@ -27,3 +28,9 @@ not sure if they are good enough for production btw :)
 ![Import.png](Import.png)
 ![Import2.png](Import2.png)
 
+### Gray Scott
+![GrayScott1.png](GrayScott1.png)
+![GrayScott2.png](GrayScott2.png)
+
+### Deformed
+![Deformed.png](Deformed.png)
