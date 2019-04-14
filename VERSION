@@ -12,6 +12,12 @@ https://github.com/aiekick/SdfFontDesigner/releases
   new feature : add a button in main menu bar for update mouse or not
   new feature : add a button in main menu bar for update uv centers modifications or not
   enhancement : show buffers pane for uniform tuning
+  enhancement : can tune font settings like base and line height in test pane
+  enhancement : can show font test in multiline and with custom background color
+  enhancement : add a settings dialog, proxy and shadertoy api key  moved from import bar to settings dialog
+  enhancement : the check of a new version now use proxy settings
+  enhancement : the eror pane, is better sorted by shader files, with hyperlinks for open file
+  
  
   
 
