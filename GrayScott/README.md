@@ -21,7 +21,7 @@ The second one is the child buffer : GrayScottBuffer.glsl
 
 ![ChildTuning](ChildTuning.png)
 
-### you can control grow speed on the lft pane here :
+### you can control grow speed on the left pane here :
 
 ![SpeedTuning](SpeedTuning.png)
 
